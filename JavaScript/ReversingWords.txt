@@ -1,0 +1,1 @@
+Take a sentence as input and reverse every word in that.
